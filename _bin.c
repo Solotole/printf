@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_bin - prints binary number.
  * @val: parameter.

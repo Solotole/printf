@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_c - prints a character.
  * @val: arguments.
