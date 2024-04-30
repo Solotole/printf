@@ -10,6 +10,9 @@
  * @ph: type char pointer of the specifier
  * @function: function for the conversion specifier
  *
+ * Description: structure dog with character anf function
+ * pointer storing so as to determine which 
+ * function to call
  */
 typedef struct format
 {
